@@ -1,7 +1,7 @@
 # The Unbiased Newsroom
 ## Version - Android. (IOS coming soon)
 
-Download : https://play.google.com/store/apps/details?id=com.wabameister.project
+App Store Link : https://play.google.com/store/apps/details?id=com.wabameister.project
 
 What spin do you want on your News?
 
